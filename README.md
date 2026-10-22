@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yugendhar 👋
 
-<!--
-**GinkalaYugendhar/GinkalaYugendhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer based in Hyderabad. I build REST APIs with
+Spring Boot, Spring Security (JWT) and MySQL. Immediate joiner, looking
+for a Junior Java / Spring Boot Developer role.
 
-Here are some ideas to get you started:
+## Tech Stack
+**Backend:** Java 8+, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security (JWT)
+**Database:** SQL, MySQL
+**Frontend (basic):** React.js, JavaScript, HTML, CSS
+**Tools:** Git, Maven, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [LogSnap](https://github.com/GinkalaYugendhar/logsnap): employee attendance and payroll system with JWT authentication and Admin/Employee roles
+- [Java Foundations](https://github.com/GinkalaYugendhar/javafoundations): Java learning from basics to advanced
+- [LeetCode Solutions](https://github.com/GinkalaYugendhar/leetcode-problem-solutions): DSA practice in Java
+
+## Currently
+Strengthening DSA and Core Java, learning microservices and system design.
+
+## Contact
+📧 ginkalayugendhar@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/yugendhar-ginkala)
