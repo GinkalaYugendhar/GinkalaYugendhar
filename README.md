@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yugendhar-ginkala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ginkalayugendhar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A1A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yugendhar-portfolio-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A1A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=GinkalaYugendhar&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
@@ -162,7 +162,7 @@ Java 8    →  Streams · Lambda · Collections
 <p align="center">
   <a href="https://linkedin.com/in/yugendhar-ginkala"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ginkalayugendhar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yugendhar-portfolio-nu.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="tel:+919666365562"><img src="https://img.shields.io/badge/PHONE-38BDF8?style=for-the-badge&logo=googlemessages&logoColor=white" alt="Phone" /></a>
 </p>
 
