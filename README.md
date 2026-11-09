@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yugendhar G 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;REST+APIs+%7C+MySQL+%7C+React.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;REST+APIs+%7C+MySQL+%7C+React.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
